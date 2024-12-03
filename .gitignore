@@ -1,0 +1,8 @@
+# .gitignore
+bin/
+*.log
+.idea/
+*.exe
+*.out
+*.test
+go.sum
